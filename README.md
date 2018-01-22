@@ -1,2 +1,2 @@
 # Discover
-Math problems
+High-school math problems
